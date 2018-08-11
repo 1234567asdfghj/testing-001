@@ -1,5 +1,5 @@
 class Calculation {
-   int z;
+   int z;//global variable
 	
    public void addition(int x, int y) {
       z = x + y;
