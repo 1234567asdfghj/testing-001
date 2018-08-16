@@ -1,5 +1,9 @@
 class Calculation {
+<<<<<<< HEAD
    int z;//global or instance variable
+=======
+   int z;//global
+>>>>>>> a7c82fdb31c0a61a028e4b15299b5ee87f906be6
 	
    public void addition(int x, int y) {
       z = x + y;
