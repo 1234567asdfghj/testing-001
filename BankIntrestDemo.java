@@ -1,3 +1,5 @@
+//Inheritance program
+
 class RBI{
 double rateOfIntrest=6.5;
 public void getIntrestRate()
