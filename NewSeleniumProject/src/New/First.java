@@ -12,7 +12,7 @@ public class First {
 		WebDriver driver=new FirefoxDriver();
 	    driver.manage().window().maximize();
 	    driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-	    driver.get("http:cvptechnolab.com"); 
+	    driver.get("http:cvptechnolab.com"); //this is not directing to cvp website
 	        
 	}
 }
